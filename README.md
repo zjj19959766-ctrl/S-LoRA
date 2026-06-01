@@ -1,13 +1,12 @@
-# LoRASculpt-ResPatch
-
-Official implementation base of **LoRASculpt** with our extended training pipeline in `LoRASculpt_Trainer.py`.
+# S-LoRA
+S-LoRA: Selective Low-Rank Adaptation for Fine-tuning Multimodal Large Language Models}
 
 ## Highlights
 
 This repository contains our practical training/evaluation workflow and trainer-side extensions for multimodal LoRA tuning, including:
 
-1. **C1. Gradient-Sensitive Subspace Selection (GSS)**
-2. **C2. Magnitude-aware Progressive Forging (GSS)**
+1. **C1. Gradient-sensitive subspace selection (GSS)**
+2. **C2. Magnitude-aware progressive forging (MPF)**
 
 ---
 
